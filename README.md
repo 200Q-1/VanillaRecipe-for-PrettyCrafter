@@ -1,5 +1,5 @@
 # VanillaRecipe-for-PrettyCrafter
-PrettyCrafterで使えるバニラのレシピです。  
+[PrettyCrafter](https://github.com/Ai-Akaishi/PrettyCrafter)で使えるバニラのレシピです。  
 マップの拡張と防具の染色には対応していません。  
 データパックの形にはなっていません。  
 お使いのデータパックの`data`に`vanilla`を配置して、  
