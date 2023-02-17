@@ -1,0 +1,11 @@
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_mapcloning"} run function vanilla:custom/crafting_special_mapcloning
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_bookcloning"} run function vanilla:custom/crafting_special_bookcloning
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_tippedarrow"} run function vanilla:custom/crafting_special_tippedarrow
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_shulkerboxcoloring"} run function vanilla:custom/crafting_special_shulkerboxcoloring
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_suspiciousstew"} run function vanilla:custom/crafting_special_suspiciousstew
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_bannerduplicate"} run function vanilla:custom/crafting_special_bannerduplicate
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_shielddecoration"} run function vanilla:custom/crafting_special_shielddecoration
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_repairitem"} run function vanilla:custom/crafting_special_repairitem
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_firework_star"} run function vanilla:custom/crafting_special_firework_star
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_firework_star_fade"} run function vanilla:custom/crafting_special_firework_star_fade
+execute if data storage pretty_crafter: found.recipe.custom{Name:"vanilla",type:"crafting_special_firework_rocket"} run function vanilla:custom/crafting_special_firework_rocket
